@@ -6,5 +6,5 @@ tags: jekyll
 year: 2014
 month: 2
 day: 25
-
+---
 This is a test of Jekyll.
